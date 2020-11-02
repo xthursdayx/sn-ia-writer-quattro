@@ -9,17 +9,16 @@ metatype: json
   "area": "themes",
   "version": "1.0.4",
   "description": "Replace all monospace and sans-serif fonts with iA Writer Quattro.",
-  "url": "https://cdn.jsdelivr.net/gh/StuartMorrisAU/sn-victor-mono@v1.0.4/dist/theme.min.css",
-  "download_url": "https://github.com/StuartMorrisAU/sn-victor-mono/archive/v1.0.4.zip",
-  "latest_url": "https://listed.to/p/vj6LKR3tus",
-  "marketing_url": "https://github.com/StuartMorrisAU/sn-victor-mono",
-  "thumbnail_url": "https://cdn.jsdelivr.net/gh/StuartMorrisAU/sn-victor-mono@latest/preview.png",
+  "url": "https://cdn.jsdelivr.net/gh/414119/sn-ia-writer-quattro/dist/theme.css",
+  "download_url": "https://github.com/414119/sn-ia-writer-quattro/archive/v1.0.4-test.zip",
+  "latest_url": "https://listed.to/p/LyNzdMESh8",
+  "marketing_url": "https://github.com/414119/sn-ia-writer-quattro",
   "layerable": true,
   "sn": {
-    "main": "dist/theme.min.css"
+    "main": "dist/theme.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/StuartMorrisAU/sn-victor-mono.git"
+    "url": "git://github.com/414119/sn-ia-writer-quattro.git"
   }
 }
