@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "iA Writer Quattro";
+    font-family: "iA Writer Quattro S";
     src: url("font/Webfonts/iA-Writer-QuattroS-Regular.woff2") format("woff2"),
         url("font/Webfonts/iA-Writer-QuattroS-Regular.woff") format("woff");
     font-weight: 400;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: "iA Writer Quattro";
+    font-family: "iA Writer Quattro S";
     src: url("font/Webfonts/iA-Writer-QuattroS-Italic.woff2") format("woff2"),
         url("font/Webfonts/iA-Writer-QuattroS-Italic.woff") format("woff");
     font-weight: 400;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: "iA Writer Quattro";
+    font-family: "iA Writer Quattro S";
     src: url("font/Webfonts/iA-Writer-QuattroS-Bold.woff2") format("woff2"),
         url("font/Webfonts/iA-Writer-QuattroS-Bold.woff") format("woff");
     font-weight: 700;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: "iA Writer Quattro";
+    font-family: "iA Writer Quattro S";
     src: url("font/Webfonts/iA-Writer-QuattroS-BoldItalic.woff2") format("woff2"),
         url("font/Webfonts/iA-Writer-QuattroS-BoldItalic.woff") format("woff");
     font-weight: 700;
@@ -35,36 +35,36 @@
 }
 
 :root {
-    --sn-stylekit-monospace-font: 'iA Writer Quattro', monospace;
-    --sn-stylekit-sans-serif-font: 'iA Writer Quattro', sans-serif;
+    --sn-stylekit-monospace-font: 'iA Writer Quattro S', monospace;
+    --sn-stylekit-sans-serif-font: 'iA Writer Quattro S', sans-serif;
 }
 
 /* Plain Editor */
 #note-text-editor {
-    font-family: 'iA Writer Quattro', monospace !important;
+    font-family: 'iA Writer Quattro S', monospace !important;
 }
 
 /* Bold Editor */
 #editor {
-    font-family: 'iA Writer Quattro', monospace !important;
+    font-family: 'iA Writer Quattro S', monospace !important;
 }
 
 /* Markdown Minimalist, Markdown Pro (Edit) */
 .CodeMirror {
-    font-family: 'iA Writer Quattro', monospace !important;
+    font-family: 'iA Writer Quattro S', monospace !important;
 }
 
 /* Markdown Pro (Preview) */
 .editor-preview-side {
-    font-family: 'iA Writer Quattro', monospace !important;
+    font-family: 'iA Writer Quattro S', monospace !important;
 }
 
 /* Plus Editor */
 .note-editable {
-    font-family: 'iA Writer Quattro', monospace !important;
+    font-family: 'iA Writer Quattro S', monospace !important;
 }
 
 /* Task Editor */
 div.task>textarea {
-    font-family: 'iA Writer Quattro', monospace !important;
+    font-family: 'iA Writer Quattro S', monospace !important;
 }
