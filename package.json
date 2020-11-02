@@ -1,5 +1,5 @@
 {
-    "name": "sn-victor-mono",
+    "name": "sn-ia-writer-quattro",
     "version": "1.0.4",
     "main": "dist/theme.css",
     "sn": {
@@ -7,7 +7,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git://github.com/StuartMorrisAU/sn-victor-mono.git"
+      "url": "git://github.com/414119/sn-ia-writer-quattro.git"
     }
   }
   
