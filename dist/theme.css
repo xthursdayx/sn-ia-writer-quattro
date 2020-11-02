@@ -1,70 +1,70 @@
 @font-face {
-    font-family: "Victor Mono";
-    src: url("font/woff2/VictorMono-Regular.woff2") format("woff2"),
-        url("font/woff/VictorMono-Regular.woff") format("woff");
+    font-family: "iA Writer Quattro";
+    src: url("font/Webfonts/iA-Writer-QuattroS-Regular.woff2") format("woff2"),
+        url("font/Webfonts/iA-Writer-QuattroS-Regular.woff") format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Victor Mono";
-    src: url("font/woff2/VictorMono-Italic.woff2") format("woff2"),
-        url("font/woff/VictorMono-Italic.woff") format("woff");
+    font-family: "iA Writer Quattro";
+    src: url("font/Webfonts/iA-Writer-QuattroS-Italic.woff2") format("woff2"),
+        url("font/Webfonts/iA-Writer-QuattroS-Italic.woff") format("woff");
     font-weight: 400;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Victor Mono";
-    src: url("font/woff2/VictorMono-Bold.woff2") format("woff2"),
-        url("font/woff/VictorMono-Bold.woff") format("woff");
+    font-family: "iA Writer Quattro";
+    src: url("font/Webfonts/iA-Writer-QuattroS-Bold.woff2") format("woff2"),
+        url("font/Webfonts/iA-Writer-QuattroS-Bold.woff") format("woff");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Victor Mono";
-    src: url("font/woff2/VictorMono-BoldItalic.woff2") format("woff2"),
-        url("font/woff/VictorMono-BoldItalic.woff") format("woff");
+    font-family: "iA Writer Quattro";
+    src: url("font/Webfonts/iA-Writer-QuattroS-BoldItalic.woff2") format("woff2"),
+        url("font/Webfonts/iA-Writer-QuattroS-BoldItalic.woff") format("woff");
     font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 
 :root {
-    --sn-stylekit-monospace-font: 'Victor Mono', monospace;
-    --sn-stylekit-sans-serif-font: 'Victor Mono', sans-serif;
+    --sn-stylekit-monospace-font: 'iA Writer Quattro', monospace;
+    --sn-stylekit-sans-serif-font: 'iA Writer Quattro', sans-serif;
 }
 
 /* Plain Editor */
 #note-text-editor {
-    font-family: 'Victor Mono', monospace !important;
+    font-family: 'iA Writer Quattro', monospace !important;
 }
 
 /* Bold Editor */
 #editor {
-    font-family: 'Victor Mono', monospace !important;
+    font-family: 'iA Writer Quattro', monospace !important;
 }
 
 /* Markdown Minimalist, Markdown Pro (Edit) */
 .CodeMirror {
-    font-family: 'Victor Mono', monospace !important;
+    font-family: 'iA Writer Quattro', monospace !important;
 }
 
 /* Markdown Pro (Preview) */
 .editor-preview-side {
-    font-family: 'Victor Mono', monospace !important;
+    font-family: 'iA Writer Quattro', monospace !important;
 }
 
 /* Plus Editor */
 .note-editable {
-    font-family: 'Victor Mono', monospace !important;
+    font-family: 'iA Writer Quattro', monospace !important;
 }
 
 /* Task Editor */
 div.task>textarea {
-    font-family: 'Victor Mono', monospace !important;
+    font-family: 'iA Writer Quattro', monospace !important;
 }
