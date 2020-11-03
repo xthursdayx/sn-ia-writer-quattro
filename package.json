@@ -1,6 +1,6 @@
 {
     "name": "sn-ia-writer-quattro",
-    "version": "1.0.4c",
+    "version": "1.0.4d",
     "main": "dist/theme.css",
     "sn": {
       "main": "dist/theme.css"
