@@ -3,8 +3,7 @@ Forked from Stuart Morris' [Victor Mono theme](https://github.com/StuartMorrisAU
 
 ---
 
-## Installation - this isn't working yet, not sure why
-
+## Installation
 1. From the Standard Notes web or desktop app, select the _Extensions_ menu.
 2. Select _Import Extension_.
 3. Enter the following Extension Link and press Enter:
