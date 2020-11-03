@@ -1,4 +1,4 @@
-# iA Writer Quattro Theme for Standard Notes
+# iA Writer Quattro Theme for [Standard Notes](https://github.com/standardnotes)
 Forked from Stuart Morris' [Victor Mono theme](https://github.com/StuartMorrisAU/sn-victor-mono), just changing the font files to [iA Writer Quattro](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Quattro). Please see there for usage and licence info.
 
 ---
