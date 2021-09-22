@@ -1,13 +1,13 @@
 {
     "name": "sn-ia-writer-quattro",
-    "version": "1.0.4d",
+    "version": "1.0.4e",
     "main": "dist/theme.css",
     "sn": {
       "main": "dist/theme.css"
     },
     "repository": {
       "type": "git",
-      "url": "git://github.com/414119/sn-ia-writer-quattro.git"
+      "url": "git://github.com/xthursdayx/sn-ia-writer-quattro.git"
     }
   }
   
