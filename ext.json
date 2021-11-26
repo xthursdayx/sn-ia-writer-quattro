@@ -3,19 +3,19 @@ metatype: json
 ---
 
 {
-  "identifier": "org.xthursdayx.sn-ia-writer-quattro",
+  "identifier": "io.xthursdayx.sn-ia-writer-quattro",
   "name": "SN iA Writer Quattro",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.4e",
+  "version": "1.0.5",
   "description": "Replace all monospace and sans-serif fonts with iA Writer Quattro.",
-  "url": "https://github.com/xthursdayx/sn-ia-writer-quattro/blob/master/dist/theme.css",
-  "download_url": "https://github.com/xthursdayx/sn-ia-writer-quattro/archive/master.zip",
-  "latest_url": "https://listed.to/p/LyNzdMESh8",
+  "url": "https://raw.githubusercontent.com/xthursdayx/sn-ia-writer-quattro/master/dist/dist.css",
+  "download_url": "https://github.com/xthursdayx/sn-ia-writer-quattro/archive/1.0.5.zip",
+  "latest_url": "https://raw.githubusercontent.com/xthursdayx/sn-ia-writer-quattro/master/ext.json",
   "marketing_url": "https://github.com/xthursdayx/sn-ia-writer-quattro",
   "layerable": true,
   "sn": {
-    "main": "dist/theme.css"
+    "main": "dist/dist.css"
   },
   "repository": {
     "type": "git",
